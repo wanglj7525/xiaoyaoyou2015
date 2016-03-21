@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xiaoyaoyou2015"
+  id="myeclipse.1450339197005"
+  context-root="/WeiChat"
+  j2ee-spec="6.0"
+  archive="xiaoyaoyou2015.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
